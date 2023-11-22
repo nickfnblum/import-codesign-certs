@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "^1.2.0",
     "@actions/exec": "^1.0.3",
-    "tmp": "^0.1.0"
+    "tmp": "^0.2.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
